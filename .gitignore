@@ -1,3 +1,15 @@
 build/
 log/
 install/
+
+# Fichiers de configuration d'IDE
+.vscode/
+.idea/
+
+# Fichiers de compilation
+*.o
+*.a
+*.so
+
+# Fichiers de log
+*.log
