@@ -1,0 +1,61 @@
+-- The C compiler identification is GNU 13.2.0
+-- The CXX compiler identification is GNU 13.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+-- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+-- Configuring done (0.9s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/zo/stage/simulation/ws_ros/build/urdf_tutorial_zo
+-- Install configuration: ""
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/materials.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/myfirst.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/flexible.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/multipleshapes.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/visual.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/images/origins.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/launch
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/launch/display.launch.py
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes/l_finger_tip.dae
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes/l_finger_tip_color.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes/coque_solide.dae
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes/l_finger_color.png
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/meshes/l_finger.dae
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/rviz
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/rviz/urdf.rviz
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/03-origins.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/project.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/08-macroed.urdf.xacro
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/01-myfirst.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/04-materials.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/02-multipleshapes.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/07-physics.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/05-visual.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/urdf/06-flexible.urdf
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/ament_index/resource_index/package_run_dependencies/urdf_tutorial_zo
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/ament_index/resource_index/parent_prefix_path/urdf_tutorial_zo
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/environment/ament_prefix_path.sh
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/environment/ament_prefix_path.dsv
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/environment/path.sh
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/environment/path.dsv
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/local_setup.bash
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/local_setup.sh
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/local_setup.zsh
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/local_setup.dsv
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/package.dsv
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/ament_index/resource_index/packages/urdf_tutorial_zo
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/cmake/urdf_tutorial_zoConfig.cmake
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/cmake/urdf_tutorial_zoConfig-version.cmake
+-- Installing: /home/zo/stage/simulation/ws_ros/install/urdf_tutorial_zo/share/urdf_tutorial_zo/package.xml
